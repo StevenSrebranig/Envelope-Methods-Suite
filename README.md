@@ -66,6 +66,16 @@ WCS/DR compares options for coherence and dissolution risk.
 ## License  
 MIT License — free for commercial and noncommercial use with attribution.
 
+@misc{Srebranig_2025_EnvelopeMethodsSuite,
+  author       = {Srebranig, Steven F.},
+  title        = {Envelope Methods Suite — One-Page Overview},
+  year         = 2025,
+  doi          = {10.5281/zenodo.17766451},
+  url          = {https://doi.org/10.5281/zenodo.17766451},
+  publisher    = {Zenodo},
+}
+
+
 ---
 
 ## Author  

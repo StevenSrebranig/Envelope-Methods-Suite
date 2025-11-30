@@ -72,7 +72,9 @@ MIT License — free for commercial and noncommercial use with attribution.
 **Steven F. Srebranig**  
 Independent researcher integrating engineering, decision theory, and cognitive modeling.
 
-```bibtex
+## Citation
+
+```text
 @misc{Srebranig_2025_EnvelopeMethodsSuite,
   author       = {Srebranig, Steven F.},
   title        = {Envelope Methods Suite — One-Page Overview},

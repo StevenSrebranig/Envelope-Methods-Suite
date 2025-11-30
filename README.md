@@ -1,4 +1,4 @@
-# Envelope-Methods-Suite
+# Envelope Methods Suite
 
 The Envelope Methods Suite provides a unified overview of four lightweight, interpretable frameworks for dynamic systems: drift detection, statistical-envelope stability, equilibrium allocation, and decision coherence.
 
@@ -58,4 +58,16 @@ A decision-coherence framework for evaluating future-self alignment and structur
 
 HCM monitors change.  
 SECL maintains stability.  
-MEO/OO allocates resources under
+MEO/OO allocates resources under equilibrium.  
+WCS/DR compares options for coherence and dissolution risk.
+
+---
+
+## License  
+MIT License — free for commercial and noncommercial use with attribution.
+
+---
+
+## Author  
+**Steven F. Srebranig**  
+Independent researcher integrating engineering, decision theory, and cognitive modeling.

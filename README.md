@@ -80,4 +80,3 @@ Independent researcher integrating engineering, decision theory, and cognitive m
   url          = {https://doi.org/10.5281/zenodo.17766451},
   publisher    = {Zenodo},
 }
-

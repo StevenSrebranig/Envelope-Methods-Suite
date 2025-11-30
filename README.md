@@ -66,6 +66,12 @@ WCS/DR compares options for coherence and dissolution risk.
 ## License  
 MIT License — free for commercial and noncommercial use with attribution.
 
+---
+
+## Author  
+**Steven F. Srebranig**  
+Independent researcher integrating engineering, decision theory, and cognitive modeling.
+
 @misc{Srebranig_2025_EnvelopeMethodsSuite,
   author       = {Srebranig, Steven F.},
   title        = {Envelope Methods Suite — One-Page Overview},
@@ -75,9 +81,3 @@ MIT License — free for commercial and noncommercial use with attribution.
   publisher    = {Zenodo},
 }
 
-
----
-
-## Author  
-**Steven F. Srebranig**  
-Independent researcher integrating engineering, decision theory, and cognitive modeling.
